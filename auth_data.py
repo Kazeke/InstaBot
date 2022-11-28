@@ -1,2 +1,3 @@
-username = "sudakoinachyonok"
-password = "CA8dM2tCFqk"
+username = "lawsnepecni198936"
+password = "JamesoUqxC"
+hashtag = "никах"
